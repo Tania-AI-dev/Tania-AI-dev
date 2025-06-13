@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there 👋, I'm Tania
+MSc in Artificial Intelligence | Researching Human-Centered AI
 
-<!--
-**Tania-AI-dev/Tania-AI-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- skilled in Python and full stack software developement.
+- passionate about building intelligent systems using NLP, Reinforcement Learning and Recommender Systems.
+- Currently building: Diet and Lifestyle recommendation system, automated stock trading, Outfit recommendation system.
+- obsessed with converting research into real-world tools.
 
-Here are some ideas to get you started:
+->>>>Reach me: https://www.linkedin.com/in/tania-marietta-277344301/ | taniamarietta16@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## PROJECTS
+### wine recommendation system
+a model that suggests wine to users based on their preferences.
+TECH: Python, pandas, RandomForrest, K-N-N
+
+## stock price prediction
+a machine learning model that predicts whether the stock prices would go up or down using different classification models
+TECH: Python, pandas, Scikit-learn, Logistic Regression, RandomForrest and Support Vector Machine.
+
+
+## TECH STACK
+- Python, C, C++, C#, JavaScript, AJAX, SQL
+- Transformers, Scikit-learn
+- Pandas, Numoy, Matplotlib
+- Flask
+- Neo5j, OpenAI Gym
+
+
+
+
+
