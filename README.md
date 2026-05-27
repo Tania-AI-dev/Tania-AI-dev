@@ -1,31 +1,90 @@
-## Hi there 👋, I'm Tania
-MSc in Artificial Intelligence | Researching Human-Centered AI
+## Hi there 👋, I'm Tania Marietta Anto
+MSc in Artificial Intelligence 
+Bachelors in Computer Applications
 
-## About Me
-- skilled in Python and full stack software developement.
-- passionate about building intelligent systems using NLP, Reinforcement Learning and Recommender Systems.
-- Currently building: Diet and Lifestyle recommendation system, automated stock trading, Outfit recommendation system.
-- obsessed with converting research into real-world tools.
+## 👩‍💻 About Me
+I am an AI graduate focused on building applied machine learning systems, with interests in:
 
-->>>>Reach me: https://www.linkedin.com/in/tania-marietta-277344301/ | taniamarietta16@gmail.com
+- Natural Language Processing
+- Recommendation Systems
+- Conversational AI
+- Sentiment Analysis
 
+I enjoy working on end-end ML projects, from data preprocessing to model deployment.
 
-## PROJECTS
-### wine recommendation system
-a model that suggests wine to users based on their preferences.
-TECH: Python, pandas, RandomForrest, K-N-N
+📫 Contact: 
+LinkedIn: https://www.linkedin.com/in/tania-marietta-277344301/
+Email: taniamarietta16@gmail.com
 
-## stock price prediction
-a machine learning model that predicts whether the stock prices would go up or down using different classification models
-TECH: Python, pandas, Scikit-learn, Logistic Regression, RandomForrest and Support Vector Machine.
+## 🧠 Technical Skills
 
+**Programming Languages**
+- Python, SQL, C, C++, JavaScript
 
-## TECH STACK
-- Python, C, C++, C#, JavaScript, AJAX, SQL
-- Transformers, Scikit-learn
-- Pandas, Numoy, Matplotlib
+**Machine Learning / AI:**
+- PyTorch
+- Scikit-learn
+- Hugging Face Transformers
+- NLP
+- Recommendation Systems
+
+**Data & Visualization:**
+- Pandas
+- NumPy
+- Matplotlib
+
+**Tools & Frameworks:**
+- FastAPI
 - Flask
-- Neo5j, OpenAI Gym
+- Git (basic)
+- OpenAI Gym
+- Neo4j
+
+---
+
+
+## 🚀 Projects
+
+### 1. BERT-Based Sentiment Analysis System
+A text classification model using transformer-based architecture (BERT) with sub-word tokenization for sentiment detection.
+
+**Tech Stack:** Python, PyTorch / Transformers, Pandas, Scikit-learn  
+
+**Highlights:**
+- Fine-tuned pre-trained BERT model for sentiment classification
+- Implemented preprocessing pipeline for text cleaning and tokenization
+- Evaluated model using classification metrics (accuracy, F1-score)
+
+---
+
+### 2. Stock Price Direction Prediction Model
+A machine learning classification system to predict stock price movement (up/down) using traditional ML algorithms.
+
+**Tech Stack:** Python, Pandas, Scikit-learn  
+
+**Models Used:**
+- Logistic Regression  
+- Support Vector Machine (SVM)  
+- Random Forest  
+
+**Highlights:**
+- Compared multiple classification models
+- Performed feature preprocessing and scaling
+- Evaluated performance using accuracy-based metrics
+
+---
+
+## ⚙️ Additional Skills / Interests
+
+- Machine Learning model development
+- Deep learning fundamentals
+- Reinforcement learning (OpenAI Gym)
+- Graph databases (Neo4j)
+- AI system experimentation
+
+## 🎯 Goal
+
+To contribute to applied AI systems in areas such as NLP, conversational AI, and recommendation systems, while building scalable and production-ready machine learning solutions.
 
 
 
