@@ -57,7 +57,7 @@ An NLP project exploring transformer-based sentiment classification using BERT a
 - Experimented with contrastive learning to improve representation learning.
 - Evaluated model performance using classification metrics.
 
-🔗 **[View Repository](YOUR_BERT_PROJECT_LINK)**
+🔗 **[View Repository]([YOUR_BERT_PROJECT_LINK](https://github.com/Tania-AI-dev/sentiment-analysis))**
 
 ---
 
