@@ -1,92 +1,96 @@
-## Hi there 👋, I'm Tania Marietta Anto
-MSc in Artificial Intelligence 
-Bachelors in Computer Applications
+# Hi there 👋, I'm Tania Marietta Anto
+
+### MSc Artificial Intelligence Graduate | Machine Learning | NLP | Python
+
+MSc Artificial Intelligence graduate with a background in Computer Applications and hands-on experience developing machine learning and NLP applications.
+
+I enjoy building end-to-end AI projects, from data preprocessing and model development to evaluation and application development. I'm particularly interested in Natural Language Processing, conversational AI, recommendation systems and applied machine learning.
 
 ## 👩‍💻 About Me
-I am an AI graduate focused on building applied machine learning systems, with interests in:
 
-- Natural Language Processing
-- Recommendation Systems
-- Conversational AI
-- Sentiment Analysis
+- 🎓 MSc in Artificial Intelligence
+- 🎓 Bachelor's in Computer Applications
+- 🧠 Interested in NLP, Deep Learning and Applied AI
+- 💻 Experienced with Python, PyTorch, Scikit-learn and Hugging Face Transformers
+- 🚀 Interested in developing practical AI applications and intelligent systems
+- 📍 Based in Dublin, Ireland
 
-I enjoy working on end-end ML projects, from data preprocessing to model deployment.
-
-📫 Contact: 
-LinkedIn: https://www.linkedin.com/in/tania-marietta-277344301/
-Email: taniamarietta16@gmail.com
-
-## 🧠 Technical Skills
+## 🛠️ Technical Skills
 
 **Programming Languages**
 - Python, SQL, C, C++, JavaScript
 
-**Machine Learning / AI:**
+**Machine Learning & Deep Learning**
 - PyTorch
 - Scikit-learn
 - Hugging Face Transformers
-- NLP
+- Natural Language Processing
+- Sentiment Analysis
 - Recommendation Systems
+- Reinforcement Learning Fundamentals
 
-**Data & Visualization:**
+**Data Processing & Visualisation**
 - Pandas
 - NumPy
 - Matplotlib
 
-**Tools & Frameworks:**
-- FastAPI
+**Frameworks & Tools**
 - Flask
-- Git (basic)
+- FastAPI
+- Git & GitHub
+- Jupyter Notebook
 - OpenAI Gym
 - Neo4j
 
----
+## 🚀 Featured Projects
 
+### 1. BERT-Based Sentiment Analysis & Sarcasm Detection
 
-## 🚀 Projects
+An NLP project exploring transformer-based sentiment classification using BERT and sub-word tokenisation, with an extension into multi-task learning for sarcasm-aware sentiment analysis.
 
-### 1. BERT-Based Sentiment Analysis System
-A text classification model using transformer-based architecture (BERT) with sub-word tokenization for sentiment detection.
-
-**Tech Stack:** Python, PyTorch / Transformers, Pandas, Scikit-learn  
+**Tech Stack:** Python, PyTorch, Hugging Face Transformers, Pandas, Scikit-learn
 
 **Highlights:**
-- Fine-tuned pre-trained BERT model for sentiment classification
-- Implemented preprocessing pipeline for text cleaning and tokenization
-- Evaluated model using classification metrics (accuracy, F1-score)
+- Fine-tuned a pre-trained BERT model for sentiment classification.
+- Explored sub-word tokenisation for text representation.
+- Extended the approach using multi-task learning for sentiment and sarcasm detection.
+- Experimented with contrastive learning to improve representation learning.
+- Evaluated model performance using classification metrics.
+
+🔗 **[View Repository](YOUR_BERT_PROJECT_LINK)**
 
 ---
 
-### 2. Stock Price Direction Prediction Model
-A machine learning classification system to predict stock price movement (up/down) using traditional ML algorithms.
+### 2. Study Buddy – AI-Powered Study Assistant
 
-**Tech Stack:** Python, Pandas, Scikit-learn  
+An AI-powered learning application that helps students interact with their study materials, generate flashcards and practise through interactive quizzes.
 
-**Models Used:**
-- Logistic Regression  
-- Support Vector Machine (SVM)  
-- Random Forest  
+**Tech Stack:** Python, Flask, Sentence Transformers, FAISS, Hugging Face Transformers, HTML, CSS, JavaScript
 
 **Highlights:**
-- Compared multiple classification models
-- Performed feature preprocessing and scaling
-- Evaluated performance using accuracy-based metrics
+- Implemented PDF text extraction and processing.
+- Used Sentence Transformers to generate semantic embeddings.
+- Integrated FAISS for context-aware information retrieval.
+- Integrated Qwen 2.5 3B Instruct for flashcard generation.
+- Developed interactive quizzes and automated answer evaluation.
+- Built a Flask-based web application with performance tracking.
+
+🔗 **[View Repository](YOUR_STUDY_BUDDY_REPOSITORY_LINK)**
+
+## 🎯 Areas of Interest
+
+- Natural Language Processing
+- Conversational AI
+- Recommendation Systems
+- Applied Machine Learning
+- Deep Learning
+- Intelligent AI Applications
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [Tania Marietta Anto](https://www.linkedin.com/in/tania-marietta-277344301/)
+- **Email:** taniamarietta16@gmail.com
 
 ---
 
-## ⚙️ Additional Skills / Interests
-
-- Machine Learning model development
-- Deep learning fundamentals
-- Reinforcement learning (OpenAI Gym)
-- Graph databases (Neo4j)
-- AI system experimentation
-
-## 🎯 Goal
-
-To contribute to applied AI systems in areas such as NLP, conversational AI, and recommendation systems, while building scalable and production-ready machine learning solutions.
-
-
-
-
-
+*Always learning, experimenting and building with AI.* 🚀
