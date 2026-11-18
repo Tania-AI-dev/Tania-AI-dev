@@ -75,7 +75,7 @@ An AI-powered learning application that helps students interact with their study
 - Developed interactive quizzes and automated answer evaluation.
 - Built a Flask-based web application with performance tracking.
 
-🔗 **[View Repository](YOUR_STUDY_BUDDY_REPOSITORY_LINK)**
+🔗 **[View Repository](https://github.com/Tania-AI-dev/studyBuddy-ai)**
 
 ## 🎯 Areas of Interest
 
